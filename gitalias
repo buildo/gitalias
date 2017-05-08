@@ -1,0 +1,2 @@
+[alias]
+  loc = diff --stat master HEAD
