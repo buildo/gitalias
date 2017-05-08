@@ -4,7 +4,7 @@ git alias shared by the buildo team
 ## usage
 
 - clone the repository
-- include in you .gitconfig
+- include in your .gitconfig
 
 ```
 [include]
